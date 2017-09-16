@@ -1,0 +1,260 @@
+body{
+	background-color:#EDEDED;
+	margin: 0; 
+}
+nav{
+	display: inline-block;
+	position: absolute;
+    padding-top: 10px;
+    
+}
+ul{
+   float: right;
+   float: left ,10px ;
+}
+li{
+	display: inline-block;
+	padding: 20px;
+	float: left ,10px ;
+}
+.fa-diamond{
+	color: #EAA9B7;
+	float:left ;
+	padding-top: 10px;
+
+
+	
+}
+
+.logo{
+	color:#767C70;
+	font-family:'Cookie', cursive;
+	font-weight: bold;
+	
+	
+	
+}
+hr{
+	width: 95%;
+	position: center;
+
+}
+h1{
+	font-family: 'Poppins', sans-serif;
+    text-align:center;
+    color:#767C70;
+    font-size: 40px;
+}
+h2{
+	font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color:#767C70;
+    font-size: 17px;
+
+}
+h3{
+	color:#EAA9B7;
+	font-family:'Cookie', cursive;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bolder; 
+
+}
+h4{
+	color:#EAA9B7;
+	font-family:'Cookie', cursive;
+	position: center;
+	font-size: 20px;
+	font-weight:bolder;
+}
+.name{
+	color: #EAA9B7;
+}
+img{
+	border-radius: 10px;
+	margin: 40px 10px 0px 10px;
+	height:auto;
+	max-width: 100%;
+	position: center , absolute;
+}
+.about{
+	margin: 0px;
+	width:460px;
+	padding:0,10px,0px,30px;
+
+}
+.work{
+	position: relative;
+	text-align: center;
+    margin: 0, 10px 60px 70px;
+	width:490px;
+	float:right;
+	clear: left;
+
+	display: inline-block;
+}
+.buttons{
+	display: inline-block;
+
+}
+.button1{
+	font-family: 'Poppins', sans-serif;
+	font-size: 10px;
+	border-radius:50px;
+	background-color: white;
+	margin: 10px 10px 10px 10px;
+	display:inline-block;
+
+
+}
+.button2{
+	font-family: 'Poppins', sans-serif;
+	font-size: 10px;
+	border-radius:50px;
+	background-color: white;
+	margin: 10px 10px 10px 10px;
+	display:inline-block;
+
+}
+.button3{
+	font-family: 'Poppins', sans-serif;
+	font-size: 10px;
+	border-radius:50px;
+	background-color: white;
+	margin: 10px 10px 10px 10px;
+	display:inline-block;
+
+}
+.button4{
+	font-family: 'Poppins', sans-serif;
+	font-size: 10px;
+	border-radius:50px;
+	background-color: white;
+	margin: 10px 10px 10px 10px;
+	display:inline-block;
+
+}
+.button5{
+	font-family: 'Poppins', sans-serif;
+	font-size: 10px;
+	border-radius:50px;
+	background-color: white;
+	margin: 10px 10px 10px 10px;
+	display:inline-block;
+
+
+}
+.button6{
+	font-family: 'Poppins', sans-serif;
+	font-size: 10px;
+	border-radius:50px;
+	background-color: white;
+	margin: 10px 10px 10px 10px;
+	display:inline-block;
+
+}
+.button7{
+	font-family: 'Poppins', sans-serif;
+	font-size: 10px;
+	border-radius:50px;
+	background-color: white;
+	margin: 10px 10px 10px 10px;
+	display:inline-block;
+
+}
+
+.button8{
+	font-family: 'Poppins', sans-serif;
+	font-size: 10px;
+	border-radius:50px;
+	background-color: white;
+	margin: 10px 10px 10px 10px;
+	display:inline-block;
+
+
+}
+.button9{
+	font-family: 'Poppins', sans-serif;
+	font-size: 10px;
+	border-radius:50px;
+	background-color: white;
+	margin: 10px 10px 10px 10px;
+	display:inline-block;
+	
+}
+.buttonx{
+	font-family: 'Poppins', sans-serif;
+	font-size: 10px;
+	border-radius:50px;
+	background-color: white;
+	margin: 10px 10px 10px 10px;
+	display:inline-block;
+	
+}
+span{
+	font-family:'Cookie', cursive;
+	color:#EAA9B7; 
+
+}
+
+h6{
+	font-family:'Cookie', cursive;
+	color:#EAA9B7; 
+    font-size: 30px;
+    font-weight: bold;
+    margin:0;
+    padding: 0px 30px 0px 30px;
+}
+.twit{
+	background-color:#C97783;
+	margin:0;
+	border-radius: 80%;
+
+}
+.face{
+	margin:0;
+	background-color:#C97783;
+	border-radius: 60%;
+}
+.you{
+	margin:0;
+	background-color:#C97783;
+	border-radius: 80%;
+}
+.google{
+	margin:0;
+	background-color:#C97783;
+	border-radius: 80%;
+
+}
+.namef{
+	padding:30px 30px 30px 30px;
+	margin:0;
+	font-size: 30px;
+	width:300px;
+}
+.email{
+	margin:0; 
+	padding: 0px 30px;
+	font-size: 30px;
+}
+.messages{
+	padding:30px 30px 30px 30px;
+	margin:0;
+	font-size: 30px;
+}
+.social{
+	margin: 0;
+	padding-left:80%;
+    padding-bottom: 30px;
+}
+
+footer{
+	background-color: #2D2D2D;
+	margin:0;
+	padding-top:5%; 
+}
+.send{
+	background-color:#2D2D2D;
+	color:#EAA9B7; 
+}
